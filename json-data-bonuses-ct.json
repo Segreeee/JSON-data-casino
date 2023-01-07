@@ -1,0 +1,12 @@
+[{
+    "coin_flip_perc": "7.54%",
+    "pachinko_perc": "3.67%",
+    "cash_hunt_perc": "3.68%",
+    "crazy_time_perc": "1.89%"
+},
+{
+    "coin_flip_avg_multiplier": "12x",
+    "pachinko_avg_multiplier": "26x",
+    "cash_hunt_avg_multiplier": "24x",
+    "crazy_time_avg_multiplier": "52x"
+}]
